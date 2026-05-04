@@ -1,0 +1,51 @@
+# Geotechnical Engineering1 — Memphis
+
+> Geotechnical engineering services in Memphis, United States.
+
+## Services
+- [Anchors](https://memphis.geotechnical-engineering1.org/anchors/)
+- [Atterberg Limits](https://memphis.geotechnical-engineering1.org/atterberg-limits/)
+- [Cbr Road](https://memphis.geotechnical-engineering1.org/cbr-road/)
+- [Cpt Test](https://memphis.geotechnical-engineering1.org/cpt-test/)
+- [Deep Excavations](https://memphis.geotechnical-engineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://memphis.geotechnical-engineering1.org/excavation-monitoring/)
+- [Excavations](https://memphis.geotechnical-engineering1.org/excavations/)
+- [Flexible Pavement](https://memphis.geotechnical-engineering1.org/flexible-pavement/)
+- [Footings](https://memphis.geotechnical-engineering1.org/footings/)
+- [Foundations](https://memphis.geotechnical-engineering1.org/foundations/)
+- [Grain Size](https://memphis.geotechnical-engineering1.org/grain-size/)
+- [Ground Improvement](https://memphis.geotechnical-engineering1.org/ground-improvement/)
+- [Grouting](https://memphis.geotechnical-engineering1.org/grouting/)
+- [In Situ Permeability](https://memphis.geotechnical-engineering1.org/in-situ-permeability/)
+- [Investigation](https://memphis.geotechnical-engineering1.org/investigation/)
+- [Lab In Situ](https://memphis.geotechnical-engineering1.org/lab-in-situ/)
+- [Laboratory](https://memphis.geotechnical-engineering1.org/laboratory/)
+- [Liquefaction](https://memphis.geotechnical-engineering1.org/liquefaction/)
+- [Masw](https://memphis.geotechnical-engineering1.org/masw/)
+- [Mat Foundations](https://memphis.geotechnical-engineering1.org/mat-foundations/)
+- [Piles](https://memphis.geotechnical-engineering1.org/piles/)
+- [Proctor Tests](https://memphis.geotechnical-engineering1.org/proctor-tests/)
+- [Resistivity](https://memphis.geotechnical-engineering1.org/resistivity/)
+- [Retaining Walls](https://memphis.geotechnical-engineering1.org/retaining-walls/)
+- [Rigid Pavement](https://memphis.geotechnical-engineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://memphis.geotechnical-engineering1.org/road-geotechnics/)
+- [Sand Cone Density](https://memphis.geotechnical-engineering1.org/sand-cone-density/)
+- [Seismic](https://memphis.geotechnical-engineering1.org/seismic/)
+- [Seismic Isolation](https://memphis.geotechnical-engineering1.org/seismic-isolation/)
+- [Seismic Microzonation](https://memphis.geotechnical-engineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://memphis.geotechnical-engineering1.org/seismic-refraction/)
+- [Slope Stability](https://memphis.geotechnical-engineering1.org/slope-stability/)
+- [Slopes](https://memphis.geotechnical-engineering1.org/slopes/)
+- [Soft Ground Tunnels](https://memphis.geotechnical-engineering1.org/soft-ground-tunnels/)
+- [Spt Drilling](https://memphis.geotechnical-engineering1.org/spt-drilling/)
+- [Stone Columns](https://memphis.geotechnical-engineering1.org/stone-columns/)
+- [Test Pits](https://memphis.geotechnical-engineering1.org/test-pits/)
+- [Triaxial](https://memphis.geotechnical-engineering1.org/triaxial/)
+- [Vibrocompaction](https://memphis.geotechnical-engineering1.org/vibrocompaction/)
+
+## Contact
+- Website: https://memphis.geotechnical-engineering1.org/
+
+## About
+This site provides geotechnical engineering services in Memphis, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
